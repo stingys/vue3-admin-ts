@@ -1,4 +1,11 @@
 @import './normalize.scss';
-body {
-    background:red !important;
+
+.text-center {
+    text-align: center;
+}
+.fs-12 {
+    font-size: 12px;
+}
+.color-white {
+    color: white;
 }
